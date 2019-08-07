@@ -20,4 +20,4 @@ Product Owner - Zennia
 
 Scrum Master - Malthe
 
-Scrum Team - Zennia, Malthe, Mikkel og Hans Kristian.
+Scrum Team - Zennia, Malthe, Mikkel, Hans Kristian og Kristina.
